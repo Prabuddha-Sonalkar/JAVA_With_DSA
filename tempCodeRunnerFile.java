@@ -1,2 +1,9 @@
+  // if(sum<maxSum){
+        //     maxSum=sum;
+        //     System.out.println(maxSum);
+        // }
 
-        // System.out.print("Enter the values in matrix" + " ");
+        // if(sum>minSum){
+        //     minSum=sum;
+        //     System.out.println(minSum);
+        // }
